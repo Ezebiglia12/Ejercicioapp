@@ -34,7 +34,7 @@
         android:layout_height="57dp"
         android:layout_marginStart="124dp"
         android:layout_marginTop="180dp"
-        android:text="el vagooo señoresss"
+        android:text="el vagooo señoress"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
