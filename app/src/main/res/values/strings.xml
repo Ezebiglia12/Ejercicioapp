@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio app</string>
+    <string name="next_step">Next Step</string>
+    <string name="greeter">Greeter</string>
+    <string name="farewall">Farewall</string>
+    <string name="_18">18</string>
+    <string name="share">SHARE</string>
+    <string name="introduce_your_name">Introduce your name</string>
+</resources>
